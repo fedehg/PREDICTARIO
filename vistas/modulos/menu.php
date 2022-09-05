@@ -27,16 +27,7 @@
       		</li>
 
 
-      		<li>
       
-      	<a href="index.php?ruta=categorias">
-
-      		<i class="fa fa-th"></i>
-              <span>Categorias</span>
-      		 </a>
-
-      		</li>
-
 
       <li>
       
@@ -47,6 +38,18 @@
       		 </a>
 
       		</li>
+
+
+  <li>
+      
+        <a href="index.php?ruta=categorias">
+
+          <i class="fa fa-th"></i>
+              <span>Categoriassss</span>
+           </a>
+
+          </li>
+
 
       <li>
       
